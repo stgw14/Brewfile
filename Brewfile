@@ -116,7 +116,7 @@ brew oniguruma
 brew openexr
 brew openjdk
 brew openjpeg
-brew openssl@1.1
+# brew openssl@1.1
 brew openssl@3
 brew p11-kit
 brew pango
@@ -162,7 +162,7 @@ tap homebrew/cask
 cask corretto@17
 cask corretto@8
 cask deskpad
-cask dozer
+# cask dozer
 cask font-monaspace
 cask macdown
 cask orbstack
@@ -209,7 +209,7 @@ appstore 1469400117 Red Lines Tools (1.6)
 appstore 803453959 Slack (4.41.105)
 appstore 1153157709 Speedtest (1.27)
 appstore 985614903 SQLPro Studio (2025.1)
-appstore 522706442 Sync Folders Pro (4.7.6)
+# appstore 522706442 Sync Folders Pro (4.7.6)
 appstore 989178902 Timepage (1.3.15)
 appstore 1436522307 Transmit (5.10.8)
 appstore 1062679359 Typeface (3.15.3)
