@@ -168,8 +168,6 @@ cask macdown
 cask orbstack
 cask zulu@11
 
-tap homebrew/cask-fonts
-
 tap homebrew/cask-versions
 
 tap grishka/grishka
