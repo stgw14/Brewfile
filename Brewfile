@@ -14,6 +14,7 @@ brew c-ares
 brew ca-certificates
 brew cairo
 brew capstone
+brew certifi
 brew chezmoi
 brew csview
 brew curl
@@ -65,6 +66,7 @@ brew libarchive
 brew libb2
 brew libcbor
 brew libde265
+brew libdeflate
 brew libedit
 brew libevent
 brew libfido2
@@ -104,6 +106,7 @@ brew lynx
 brew lz4
 brew lzo
 brew m4
+brew mas
 brew mongodb-atlas-cli
 brew mongosh
 brew mpdecimal
@@ -116,7 +119,6 @@ brew oniguruma
 brew openexr
 brew openjdk
 brew openjpeg
-# brew openssl@1.1
 brew openssl@3
 brew p11-kit
 brew pango
@@ -128,6 +130,7 @@ brew python-packaging
 brew python@3.10
 brew python@3.11
 brew python@3.12
+brew python@3.13
 brew python@3.9
 brew qemu
 brew rbenv
@@ -154,6 +157,7 @@ brew watchman
 brew webp
 brew x265
 brew xorgproto
+brew xxhash
 brew xz
 brew zlib
 brew zstd
@@ -162,7 +166,6 @@ tap homebrew/cask
 cask corretto@17
 cask corretto@8
 cask deskpad
-# cask dozer
 cask font-monaspace
 cask macdown
 cask orbstack
@@ -179,42 +182,40 @@ brew shopify-cli
 
 # App Store applications
 appstore 1333542190 1Password 7 (7.9.11)
-appstore 302584613 Amazon Kindle (7.24)
+appstore 302584613 Amazon Kindle (7.27.1)
 appstore 425264550 Blackmagic Disk Speed Test (3.4.2)
 appstore 1193539993 Brother iPrint&Scan (12.1.0)
-appstore 1254981365 Contrast (1.3.2)
 appstore 1447043133 Cursor Pro (2.12)
 appstore 290986013 Deliveries (9.6)
 appstore 1253066126 DesktopClock (2.17)
-appstore 975937182 Fantastical (4.0.4)
-appstore 553245401 Friendly Streaming (5.9.77)
-appstore 682658836 GarageBand (10.4.12)
+appstore 975937182 Fantastical (4.0.7)
+appstore 553245401 Friendly Streaming (5.9.78)
+appstore 682658836 GarageBand (10.4.11)
 appstore 1593045116 Glide (3.4)
 appstore 1452453066 Hidden Bar (1.8)
 appstore 408981434 iMovie (10.4.3)
 appstore 1533805339 Keepa - Price Tracker (4.19)
-appstore 409183694 Keynote (14.3)
-appstore 539883307 LINE (9.6.1)
+appstore 409183694 Keynote (14.2)
+appstore 539883307 LINE (9.7.0)
 appstore 1510445899 Meeter (1.9.10)
-appstore 1480068668 Messenger (226.0)
-appstore 462058435 Microsoft Excel (16.94)
-appstore 462054704 Microsoft Word (16.94)
-appstore 462062816 Microsoft PowerPoint (16.94)
-appstore 985367838 Microsoft Outlook (16.94)
-appstore 905953485 NordVPN (8.33.1)
-appstore 409203825 Numbers (14.3)
-appstore 823766827 OneDrive (25.004.0109)
-appstore 409201541 Pages (14.3)
+appstore 1480068668 Messenger (232.4)
+appstore 462062816 Microsoft PowerPoint (16.95.1)
+appstore 985367838 Microsoft Outlook (16.95.1)
+appstore 462054704 Microsoft Word (16.95.1)
+appstore 462058435 Microsoft Excel (16.95.1)
+appstore 905953485 NordVPN (8.34.1)
+appstore 409203825 Numbers (14.2)
+appstore 823766827 OneDrive (25.020.0202)
+appstore 409201541 Pages (14.2)
 appstore 1469400117 Red Lines Tools (1.6)
-appstore 803453959 Slack (4.41.105)
+appstore 803453959 Slack (4.43.44)
 appstore 1153157709 Speedtest (1.27)
-appstore 985614903 SQLPro Studio (2025.1)
-# appstore 522706442 Sync Folders Pro (4.7.6)
-appstore 989178902 Timepage (1.3.15)
+appstore 985614903 SQLPro Studio (2025.7)
+appstore 989178902 Timepage (1.5)
 appstore 1436522307 Transmit (5.10.8)
 appstore 1062679359 Typeface (3.15.3)
 appstore 972112040 Voice Dream Reader (2.0.1)
-appstore 1295203466 Windows App (11.0.8)
-appstore 858446756 World Clock Pro (1.7.11)
+appstore 1295203466 Windows App (11.1.3)
+appstore 858446756 World Clock Pro (1.8.1)
 appstore 497799835 Xcode (16.2)
 appstore 889428659 xScope (4.7.1)
